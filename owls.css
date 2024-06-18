@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #9c96966b; /* Light gray for a clean look */
+  margin-left: 20px;
+  text-align: justify;
+}
+
+image {
+  background-color: #333333;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #680707;
+  text-align: center;
+}
+h2 {
+  color: #680707;
+}
+
+footer {
+  text-align: center;
+}
+
+h2 {
+  /* text-align: center; */
+}
